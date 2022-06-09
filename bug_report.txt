@@ -1,0 +1,8 @@
+Summary: не нажимается кнопка логин ,
+Type: баг ,
+Priority: высокий ,
+Status: открытый ,
+Author: Анна Лифенцева ,
+Severity: высокая ,
+Version: 1.2.5,
+OS: android 8.0
